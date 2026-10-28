@@ -1,6 +1,6 @@
 
 import streamlit as st
-
+# cd streamlit then run the command: streamlit run ios_calculator.py
 # 1. Configure the browser tab and page layout
 st.set_page_config(
     page_title="iOS Calculator",
